@@ -1,0 +1,77 @@
+body{
+    background-image: url("./images/taj6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.v3{
+    text-align: center;
+    color: royalblue
+}
+.v4{
+    margin-left: 80px;
+}
+.v5{
+    width: 300px;
+    margin-left: 80px;
+}
+.v6{
+    height:190px;
+    margin-left: 80px;
+}
+.v1{
+    color:cyan;
+}
+.v2{
+    color:darkgoldenrod;
+}
+.v7{
+    size:50px;
+    color: bisque;
+}
+.v8{
+    text-align: center;
+    color: red;
+}
+.v9{
+    size:50px;
+    color:chartreuse;
+}
+.v10{
+    size:50px;
+    color:darkblue;
+}
+.v11{
+    color: peru;
+}
+.v12{
+    color:blueviolet;
+}
+.v13{
+    color:cornsilk;
+}
+.v14{
+    color:brown;
+}
+.v15{
+    color:darkgoldenrod;
+}
+.v16{
+    color:dimgrey;
+}
+.v17{
+    color:antiquewhite;
+}
+.v18{
+    color:lightcoral;
+}
+.v19{
+    color:hotpink;
+}
+.v21{
+    text-align: center;
+    color:lightgreen;
+}
+.v20{
+    margin: 0;
+    padding: 0;
+}
